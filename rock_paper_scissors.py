@@ -46,4 +46,6 @@ elif player_2 == 'scissors' and player_1 == 'paper':
 
 if player_1 == 'paper' and player_2 == 'paper':
     print('Draw! ')
-
+    
+else:
+    print('Error')
